@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const instance= axios.create({
-    baseURL:'https://parth-s-burger-builder.firebaseio.com/'
+    baseURL:'add your own path'
 });
 
 export default instance;
